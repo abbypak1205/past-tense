@@ -1,12 +1,18 @@
 [
+	{
+	
+		"prompt": "<span> Get to know more about past tense!!!</span>",
+		"answer": "https://youtu.be/MI3S3kdkofo?si=nEYEL2ZxsDPlB37R"
+	},
     {
-		"prompt": "What is the past tense of  <b>'do'</b> ?",
+	
+		"prompt": "What is the past tense of  <b> 'do' </b> ?",
 		"answer": "do & <span> did </span>",
 		"link": "https://google.com"
 	},
     {
-		"prompt": "past tense of <b> 'get' </b>?",
-		"answer": "get & <span> got </span>.",
+		"prompt": "What is the past tense of 'get' ?",
+		"answer": "<img src='https://www.business2community.com/wp-content/uploads/2016/06/Got-it..jpg.jpg',/>",
 		"link": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/get"
 	},
 	{
