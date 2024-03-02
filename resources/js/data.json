@@ -1,12 +1,37 @@
 [
     {
-		"prompt": "Test question <span>1234</span>. Tell <b>me</b> something.",
-		"answer": "This is the answer.",
+		"prompt": "What is the past tense of  <b>'do'</b> ?",
+		"answer": "do & <span> did </span>",
 		"link": "https://google.com"
 	},
     {
-		"prompt": "This is the second question",
+		"prompt": "past tense of <b> 'get' </b>?",
+		"answer": "get & <span> got </span>.",
+		"link": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/get"
+	},
+	{
+		"prompt": "past tense of <b> learn </b> ",
+		"answer": "<span>learnt</span>.",
+		"link": "https://facebook.com"
+	},
+	{
+		"prompt": "What is the past tense of  <b>'open'</b> ?",
+		"answer": "<span>opened</span>",
+		"link": "https://facebook.com"
+	},
+	{
+		"prompt": "What is the past tense of  <b>'do'</b> ?",
 		"answer": "This is the answer.",
 		"link": "https://facebook.com"
-	}
+	},
+	{
+		"prompt": "What is the past tense of  <b>'look'</b> ?",
+		"answer": "looked.",
+		"link": "https://facebook.com"
+	},
+	{
+		"prompt": "What is the past tense of  <b>'do'</b> ?",
+		"answer": "This is the answer.",
+		"link": "https://facebook.com"
+	}	
 ]
